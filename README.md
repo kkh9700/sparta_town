@@ -14,10 +14,7 @@
 필수 요구 사항
 - 캐릭터만들기
 - 캐릭터 이동
-  - Unity 게임개발 입문 1주차 강의를 참고하여 만들었습니다.
-  - [CharacterController](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Controller/CharacterController.cs)
-  - [PlayerInputController](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Controller/PlayerInputController.cs)
-  - [CharacterMovement](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Entities/CharacterMovement.cs)
+  - Unity 게임개발 입문 1주차 강의를 참고하여 만들었습니다. ([CharacterController](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Controller/CharacterController.cs), [PlayerInputController](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Controller/PlayerInputController.cs), [CharacterMovement](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Entities/CharacterMovement.cs))
 - 방 만들기
 - 카메라 따라가기
 
