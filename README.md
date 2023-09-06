@@ -19,6 +19,7 @@
   - 타일맵을 사용하여 방을 만들었습니다.
 ![캡처](https://github.com/kkh9700/sparta_town/assets/77197725/6c94c4ca-f680-4370-b996-1b988877d020)
 - 카메라 따라가기
+  - 자동으로 플레이어의 위치에 카메라가 따라가게 만들었습니다.([CameraController](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Controller/CameraController.cs))
 
 선택 요구 사항
 - 캐릭터 애니메이션 추가
