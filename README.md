@@ -23,8 +23,10 @@
 
 선택 요구 사항
 - 캐릭터 애니메이션 추가
+<br>
 ![CharacterAnimation](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/CharacterAnimation.gif)
 - 이름 입력 시스템
+<br>
 ![NameSystem](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/NameSystem.gif)
 - 캐릭터 선택 시스템
 
