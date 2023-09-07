@@ -27,7 +27,7 @@
 - 이름 입력 시스템
   - ![NameSystem](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/NameSystem.gif)
 - 캐릭터 선택 시스템
-  - ![CharacterSelect](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/CharacterAnimation.gif)
+  - ![CharacterSelect](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/CharacterSelect.gif)
 - 참석 인원 UI
   - UI는 만들었는데 참석인원을 가져오는 기능을 구현하지 못해서 UI만 동작한다.
   - ![Participant](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/Participant.gif)
