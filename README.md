@@ -23,22 +23,19 @@
 
 선택 요구 사항
 - 캐릭터 애니메이션 추가
-<br/>
-![CharacterAnimation](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/CharacterAnimation.gif)
+  - ![CharacterAnimation](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/CharacterAnimation.gif)
 - 이름 입력 시스템
-<br/>
-![NameSystem](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/NameSystem.gif)
+  - ![NameSystem](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/NameSystem.gif)
 - 캐릭터 선택 시스템
-
+  - ![CharacterSelect](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/CharacterAnimation.gif)
 - 참석 인원 UI
   - UI는 만들었는데 참석인원을 가져오는 기능을 구현하지 못해서 UI만 동작한다.
-  
+  - ![Participant](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/Participant.gif)
 - 인게임 캐릭터 선택
-
+  - ![InGameCharacterSelect](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/InGameCharacterSelect.gif)
 - 인게임 이름 바꾸기
-
+  - ![InGameNameSystem](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/InGameNameSystem.gif)
 - 시간 표시
   - [TimeUtil](https://github.com/kkh9700/sparta_town/blob/main/Assets/Scripts/Utils/TimeUtil.cs)을 사용해서 현재시간을 구하는 메소드를 만들고 GameManager에서 Update가 실행될 때 마다 현재시간을 갱신해서 표시하였다.
   - https://github.com/kkh9700/sparta_town/blob/2050fa56596fe26abd1b6abbc4d3660a9d3456cf/Assets/Scripts/Manager/GameManager.cs#L25-L28
-  
-  
+  - ![DisplayTime](https://github.com/kkh9700/sparta_town/blob/main/Assets/Images/Git/DisplayTime.PNG)
